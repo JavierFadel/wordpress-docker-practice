@@ -120,6 +120,3 @@ docker exec -i mysql_server mysql -u wordpress_user -p wordpress_db < backup.sql
 - Ganti password default yang ada di `docker-compose.yml`
 - Update `wp-config.php` dengan salt keys yang unik
 - Aktifkan WP_DEBUG hanya saat development
-
-## Kontribusi
-Silakan berkontribusi dengan membuat pull request atau melaporkan issues.
