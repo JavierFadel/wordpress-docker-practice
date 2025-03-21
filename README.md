@@ -123,7 +123,3 @@ docker exec -i mysql_server mysql -u wordpress_user -p wordpress_db < backup.sql
 
 ## Kontribusi
 Silakan berkontribusi dengan membuat pull request atau melaporkan issues.
-
-## Lisensi
-[Sesuaikan dengan lisensi proyek Anda]
-
